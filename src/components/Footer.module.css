@@ -1,0 +1,7 @@
+.footer{
+    background-color: rgb(220, 53, 69);
+    display: flex;
+    color: white;
+    justify-content: end;
+    margin-top: 50px;
+}

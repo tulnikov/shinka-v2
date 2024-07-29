@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(33, 37, 41);
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+
+.caption{
+    font-size: 70px;
+    font-family: "Al Nile";
+
+}
+
+.logo{
+    color: white;
+    font-size: 70px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.control{
+    font-size: 30px;
+    margin: auto 15px auto;
+    cursor: pointer;
+}
